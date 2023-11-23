@@ -23,7 +23,7 @@ while True:
     
     # Heading
     display.line(0, 2, w, 2, 4)
-    display.text("badgerstation", 0, 6, scale=3)
+    display.text("$ badgerstation", 0, 6, scale=3)
     display.line(0, 34, w, 34, 4)
     
     # CO_2
